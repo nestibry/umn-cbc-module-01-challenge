@@ -19,9 +19,9 @@ N/A
 
 https://nestibry.github.io/umn-cbc-module-01-challenge/
 
-![Horiseon's deployed application with webpage](./assets/images/screenshot_2023-09-18_162639.png)
+![Horiseon's deployed application with webpage](./assets/images/screencaptures/website-with-title.png)
 
-![Horiseon's deployed application](./assets/images/horiseon-webpage-screencapture.jpeg)
+![Horiseon's deployed application](./assets/images/screencaptures/full-page.jpeg)
 
 
 
