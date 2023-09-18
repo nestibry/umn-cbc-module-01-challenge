@@ -8,6 +8,11 @@ body {
     background-color: #d9dcd6;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* Header content */
 header {
     padding: 20px;
@@ -136,6 +141,11 @@ main {
     font-size: 36px;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* Aside content*/
 aside {
     margin-right: 20px;
@@ -209,4 +219,5 @@ footer {
 
 footer h2 {
     font-size: 20px;
+    margin-bottom: 0px;
 }
