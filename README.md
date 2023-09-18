@@ -7,8 +7,7 @@ Refactoring client's codebase following accessibility standards to be optimized 
 
 - Refactored codebase to use semanitic HTML element tags
 - Re-organized HTML elements to folow a logical structure independent of styling and postioning
-- Application's CSS selectors and properties are consolidated an organized to follow semantic structure
-- Updated heading attributes order
+- Application's CSS selectors and properties are consolidated and organized to follow semantic structure
 - Added a descriptive title
 - Added accessible 'alt' attributes to images
 
