@@ -147,43 +147,18 @@ aside {
     background-color: #2589bd;
 }
 
-/* Lead Generation section elements */
-#benefit-lead {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefit-lead img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Brand Awareness section elements */
-#benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefit Cost section elements */
-#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Footer section elements */
+/* Footer content */
 footer {
     padding: 30px;
     clear: both;
