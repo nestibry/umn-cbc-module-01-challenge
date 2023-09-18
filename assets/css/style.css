@@ -8,6 +8,31 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Headings */
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* Header content */
 header {
     padding: 20px;
@@ -16,12 +41,7 @@ header {
     color: #ffffff;
 }
 
-header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-header h1 .seo {
+header #seo {
     color: #d9dcd6;
 }
 
@@ -42,17 +62,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Links */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* Paragraphs */
-p {
-    font-size: 16px;
-}
-
+/* Figure - Horiseon Hero */
 .hero-image {
     height: 800px;
     width: 100%;
@@ -69,6 +79,19 @@ main {
     margin-left: 20px;
 }
 
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+main img {
+    max-height: 200px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,63 +100,6 @@ main {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/* Search Engine Optimization section elements */
-#search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#search-engine-optimization img {
-    max-height: 200px;
-}
-
-#search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Online Reputation Managment section elements */
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Social Media Marketing section elements */
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Aside content*/
@@ -148,58 +114,18 @@ aside {
     background-color: #2589bd;
 }
 
-/* Lead Generation section elements */
-#benefit-lead {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#benefit-lead img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Brand Awareness section elements */
-#benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefit Cost section elements */
-#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Footer section elements */
+/* Footer content */
 footer {
     padding: 30px;
     clear: both;
@@ -209,4 +135,5 @@ footer {
 
 footer h2 {
     font-size: 20px;
+    margin-bottom: 0px;
 }
