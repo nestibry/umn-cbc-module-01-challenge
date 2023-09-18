@@ -24,12 +24,10 @@ h3 {
     text-align: center;
 }
 
-/* Paragraphs */
 p {
     font-size: 16px;
 }
 
-/* Links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -43,7 +41,7 @@ header {
     color: #ffffff;
 }
 
-header h1 .seo {
+header #seo {
     color: #d9dcd6;
 }
 
@@ -64,6 +62,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Background Image*/
 .hero-image {
     height: 800px;
     width: 100%;
