@@ -1,22 +1,18 @@
-# umn-cbc-module-01-challenge
-(Unv. of Minnesota - Coding Boot Camp - Module 1 Challenge) - Refactoring a client's codebase that follows accessibility standards.
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
-
-
-
-
-# <Your-Project-Title>
+# Module 1 Challenge
+*University of Minnesota - Coding Boot Camp*<br />
+*© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.*
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Refactoring client's codebase following accessibility standards.
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 - What did you learn?
+semantic tags
+    -- test
+
 
 ## Table of Contents (Optional)
 
